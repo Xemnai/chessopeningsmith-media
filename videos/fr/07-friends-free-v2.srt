@@ -1,0 +1,24 @@
+1
+00:00:02,200 --> 00:00:10,006
+Ajoutez vos amis du club
+avec un simple code ami
+
+2
+00:00:10,056 --> 00:00:15,924
+Ouvertures communes
+et dossiers de parties partagés
+
+3
+00:00:15,974 --> 00:00:18,845
+Partagez un dossier de tournoi…
+
+4
+00:00:18,895 --> 00:00:22,348
+…en lecture seule,
+chiffré pour votre ami
+
+5
+00:00:22,398 --> 00:00:24,998
+Préparez-vous ensemble,
+sans exposer le serveur
+

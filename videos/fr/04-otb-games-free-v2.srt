@@ -1,0 +1,25 @@
+1
+00:00:02,200 --> 00:00:09,090
+Partie de tournoi terminée ?
+Notez-la tout de suite
+
+2
+00:00:09,140 --> 00:00:20,634
+Saisie en plein écran,
+coup par coup
+
+3
+00:00:20,684 --> 00:00:23,238
+Un doute ? Ouvrez
+la base de référence
+
+4
+00:00:23,288 --> 00:00:31,049
+Stockfish, seulement si vous le voulez,
+une fois la partie finie
+
+5
+00:00:31,099 --> 00:00:34,968
+Terminez et enregistrez :
+la partie rejoint votre bibliothèque
+

@@ -1,0 +1,30 @@
+1
+00:00:02,200 --> 00:00:09,395
+Une défaite en interclubs…
+où est-ce que ça a dérapé ?
+
+2
+00:00:09,445 --> 00:00:14,917
+Comparaison avec votre répertoire :
+le premier écart est trouvé
+
+3
+00:00:14,967 --> 00:00:22,198
+Revenez à la position
+où la prépa s’arrête
+
+4
+00:00:22,248 --> 00:00:28,584
+Stockfish 19 note chaque coup :
+imprécisions et gaffes repérées
+
+5
+00:00:28,634 --> 00:00:34,010
+Le rapport : précision,
+phases de jeu et erreurs clés
+
+6
+00:00:34,060 --> 00:00:36,660
+Inclus dans l’offre gratuite :
+5 analyses rapides par jour
+

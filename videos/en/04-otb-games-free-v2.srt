@@ -1,0 +1,25 @@
+1
+00:00:02,200 --> 00:00:08,910
+Tournament game over?
+Log it right away
+
+2
+00:00:08,960 --> 00:00:20,527
+Full-screen entry,
+move by move
+
+3
+00:00:20,577 --> 00:00:23,130
+Not sure? Open
+the reference database
+
+4
+00:00:23,180 --> 00:00:30,969
+Stockfish only when you want it,
+once the game is over
+
+5
+00:00:31,019 --> 00:00:34,882
+Finish and save:
+the game joins your library
+

@@ -1,0 +1,29 @@
+1
+00:00:02,200 --> 00:00:04,152
+Une position à vérifier ?
+Pas besoin de compte
+
+2
+00:00:04,202 --> 00:00:12,793
+Jouez l’Espagnole
+sur l’échiquier
+
+3
+00:00:12,843 --> 00:00:23,225
+Stockfish 19 calcule
+sur votre appareil
+
+4
+00:00:23,275 --> 00:00:27,548
+Barre d’évaluation
+et meilleures lignes en direct
+
+5
+00:00:27,598 --> 00:00:31,312
+Jouez le meilleur coup :
+4.Fa4
+
+6
+00:00:31,362 --> 00:00:33,962
+Gratuit, sans inscription
+

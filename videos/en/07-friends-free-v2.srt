@@ -1,0 +1,24 @@
+1
+00:00:02,200 --> 00:00:09,894
+Add your club mates
+with a simple friend code
+
+2
+00:00:09,944 --> 00:00:15,766
+Shared openings
+and shared game folders
+
+3
+00:00:15,816 --> 00:00:18,694
+Share a tournament folder…
+
+4
+00:00:18,744 --> 00:00:22,761
+…read-only,
+encrypted for your friend
+
+5
+00:00:22,811 --> 00:00:25,411
+Prepare together,
+without exposing the server
+

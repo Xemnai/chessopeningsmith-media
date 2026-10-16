@@ -1,0 +1,49 @@
+1
+00:00:02,200 --> 00:00:04,456
+Your openings are encrypted
+right in your browser
+
+2
+00:00:04,506 --> 00:00:10,753
+AES-256-GCM, before anything
+reaches the server
+
+3
+00:00:10,803 --> 00:00:14,553
+The server never
+receives your key
+
+4
+00:00:14,603 --> 00:00:18,372
+Forgot your password?
+Your recovery key
+
+5
+00:00:18,422 --> 00:00:24,694
+You stay in control
+of your approved devices
+
+6
+00:00:24,744 --> 00:00:28,333
+A security fingerprint
+to compare with friends
+
+7
+00:00:28,383 --> 00:00:33,203
+Your notes on a friend:
+private and encrypted
+
+8
+00:00:33,253 --> 00:00:35,621
+Share a folder…
+
+9
+00:00:35,671 --> 00:00:38,969
+…read-only,
+encrypted for your friend
+
+10
+00:00:39,019 --> 00:00:41,150
+All of this,
+with a free account
+

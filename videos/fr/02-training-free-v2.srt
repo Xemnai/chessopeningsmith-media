@@ -1,0 +1,29 @@
+1
+00:00:02,200 --> 00:00:08,740
+Votre Espagnole est prête ?
+Passez à l’entraînement
+
+2
+00:00:08,790 --> 00:00:13,948
+Choisissez quoi réviser :
+lignes faibles, nouvelles, au hasard
+
+3
+00:00:13,998 --> 00:00:18,997
+Jouez vos coups de mémoire,
+l’appli répond avec votre prépa
+
+4
+00:00:19,047 --> 00:00:22,389
+Une erreur ? Elle est signalée
+tout de suite
+
+5
+00:00:22,439 --> 00:00:27,779
+Un indice, puis on rejoue
+
+6
+00:00:27,829 --> 00:00:30,429
+La ligne ratée reviendra
+plus tard dans la séance
+

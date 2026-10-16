@@ -1,0 +1,21 @@
+1
+00:00:02,200 --> 00:00:04,551
+Un échiquier à votre goût
+
+2
+00:00:04,601 --> 00:00:10,872
+Choisissez une palette…
+
+3
+00:00:10,922 --> 00:00:14,737
+…et votre jeu de pièces
+
+4
+00:00:14,787 --> 00:00:17,874
+Thème clair ou sombre, 46 langues,
+souris, tactile ou clavier
+
+5
+00:00:17,924 --> 00:00:23,871
+Inclus dans l’offre gratuite
+

@@ -1,0 +1,40 @@
+1
+00:00:02,200 --> 00:00:09,646
+Créez votre répertoire :
+l’Espagnole avec les Blancs
+
+2
+00:00:09,696 --> 00:00:19,206
+Ajoutez vos coups
+directement sur l’échiquier
+
+3
+00:00:19,256 --> 00:00:22,123
+3…a6 : que jouer ?
+Stockfish analyse en direct
+
+4
+00:00:22,173 --> 00:00:26,597
+Évaluation + meilleures lignes :
+4.Fa4 en tête
+
+5
+00:00:26,647 --> 00:00:31,274
+Vérifiez dans vos
+bases de parties
+
+6
+00:00:31,324 --> 00:00:33,976
+Les parties du club confirment :
+4.Fa4, le choix le plus joué
+
+7
+00:00:34,026 --> 00:00:38,795
+On l’ajoute…
+et on enregistre
+
+8
+00:00:38,845 --> 00:00:41,697
+Ensuite : entraînez-vous
+à la retenir par cœur
+

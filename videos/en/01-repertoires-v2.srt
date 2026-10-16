@@ -1,0 +1,40 @@
+1
+00:00:02,200 --> 00:00:09,636
+Create your repertoire:
+the Ruy Lopez as White
+
+2
+00:00:09,686 --> 00:00:19,326
+Add your moves
+right on the board
+
+3
+00:00:19,376 --> 00:00:22,247
+3…a6: what now?
+Stockfish analyzes live
+
+4
+00:00:22,297 --> 00:00:26,694
+Eval bar + best lines:
+4.Ba4 comes out on top
+
+5
+00:00:26,744 --> 00:00:31,388
+Check your
+game databases
+
+6
+00:00:31,438 --> 00:00:33,797
+Club games agree:
+4.Ba4 is the most played
+
+7
+00:00:33,847 --> 00:00:38,628
+Add it…
+and save
+
+8
+00:00:38,678 --> 00:00:41,530
+Next: train until
+you know it by heart
+

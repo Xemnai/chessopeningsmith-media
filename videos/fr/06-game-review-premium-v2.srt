@@ -1,0 +1,30 @@
+1
+00:00:02,200 --> 00:00:04,197
+Analysez toutes vos parties
+d’un coup
+
+2
+00:00:04,247 --> 00:00:07,905
+Comparaison au répertoire
++ Stockfish 19
+
+3
+00:00:07,955 --> 00:00:13,591
+Profils Standard et Approfondi
+débloqués avec Maître Forgeron
+
+4
+00:00:13,641 --> 00:00:20,241
+Réglez la puissance
+selon votre appareil
+
+5
+00:00:20,291 --> 00:00:27,259
+La file tourne en local :
+pause, reprise, temps restant
+
+6
+00:00:27,309 --> 00:00:30,162
+Et les nouvelles parties
+s’analysent automatiquement
+

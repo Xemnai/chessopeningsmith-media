@@ -1,0 +1,30 @@
+1
+00:00:02,200 --> 00:00:09,473
+A loss at the club match…
+where did it go wrong?
+
+2
+00:00:09,523 --> 00:00:15,008
+Compared with your repertoire:
+the first deviation is found
+
+3
+00:00:15,058 --> 00:00:22,276
+Jump to the position
+where your prep ends
+
+4
+00:00:22,326 --> 00:00:28,656
+Stockfish 19 grades every move:
+inaccuracies and blunders flagged
+
+5
+00:00:28,706 --> 00:00:34,078
+The report: accuracy,
+game phases and key mistakes
+
+6
+00:00:34,128 --> 00:00:36,728
+In the free plan:
+5 quick analyses a day
+

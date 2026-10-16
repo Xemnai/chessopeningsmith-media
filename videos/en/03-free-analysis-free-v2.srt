@@ -1,0 +1,29 @@
+1
+00:00:02,200 --> 00:00:04,152
+A position to check?
+No account needed
+
+2
+00:00:04,202 --> 00:00:12,831
+Play the Ruy Lopez
+on the board
+
+3
+00:00:12,881 --> 00:00:23,262
+Stockfish 19 runs
+on your own device
+
+4
+00:00:23,312 --> 00:00:27,578
+Eval bar and best lines,
+live
+
+5
+00:00:27,628 --> 00:00:31,343
+Play the best move:
+4.Ba4
+
+6
+00:00:31,393 --> 00:00:33,993
+Free, no sign-up
+

@@ -1,0 +1,21 @@
+1
+00:00:02,200 --> 00:00:04,552
+A board that suits you
+
+2
+00:00:04,602 --> 00:00:10,837
+Pick a colour palette…
+
+3
+00:00:10,887 --> 00:00:14,670
+…and your piece set
+
+4
+00:00:14,720 --> 00:00:17,759
+Light or dark theme, 46 languages,
+mouse, touch or keyboard
+
+5
+00:00:17,809 --> 00:00:23,731
+Included in the free plan
+

@@ -1,0 +1,24 @@
+1
+00:00:02,200 --> 00:00:11,221
+After training,
+see what sticks
+
+2
+00:00:11,271 --> 00:00:15,063
+Sessions, moves played,
+success rate
+
+3
+00:00:15,113 --> 00:00:18,875
+Compare your White
+and Black repertoires
+
+4
+00:00:18,925 --> 00:00:25,267
+The lines to work on,
+with a shortcut to training
+
+5
+00:00:25,317 --> 00:00:27,970
+Included in the free plan
+

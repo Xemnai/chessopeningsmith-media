@@ -1,0 +1,29 @@
+1
+00:00:02,200 --> 00:00:08,736
+Your Ruy Lopez is ready?
+Time to train
+
+2
+00:00:08,786 --> 00:00:13,945
+Choose what to review:
+weak, new or random lines
+
+3
+00:00:13,995 --> 00:00:18,959
+Play your moves from memory,
+the app answers with your prep
+
+4
+00:00:19,009 --> 00:00:22,363
+A mistake? It’s flagged
+right away
+
+5
+00:00:22,413 --> 00:00:27,801
+Get a hint, then try again
+
+6
+00:00:27,851 --> 00:00:30,451
+The missed line comes back
+later in the session
+

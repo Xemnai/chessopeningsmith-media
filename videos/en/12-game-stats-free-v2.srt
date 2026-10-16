@@ -1,0 +1,34 @@
+1
+00:00:02,200 --> 00:00:05,602
+Your Lichess, Chess.com
+and club games in one place
+
+2
+00:00:05,652 --> 00:00:11,316
+Filter by source, period,
+time control and opponent Elo
+
+3
+00:00:11,366 --> 00:00:16,773
+Points scored,
+wins, draws, losses
+
+4
+00:00:16,823 --> 00:00:24,010
+Then the split
+as White and as Black
+
+5
+00:00:24,060 --> 00:00:29,367
+By opening and colour:
+Ruy Lopez as White…
+
+6
+00:00:29,417 --> 00:00:32,170
+…French Defence as Black
+
+7
+00:00:32,220 --> 00:00:34,820
+In the free plan: 100 online
+games and 20 OTB games
+

@@ -1,0 +1,24 @@
+1
+00:00:02,200 --> 00:00:11,463
+Votre base de club privée,
+branchée sur votre Espagnole
+
+2
+00:00:11,513 --> 00:00:18,342
+Ouvrez la base privée
+
+3
+00:00:18,392 --> 00:00:24,050
+Coups joués, fréquences et scores
+à chaque position
+
+4
+00:00:24,100 --> 00:00:26,853
+Repérez les coups populaires
+avant de les ajouter à votre prépa
+
+5
+00:00:26,903 --> 00:00:29,557
+Bases privées :
+offre Maître Forgeron
+

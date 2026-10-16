@@ -1,0 +1,24 @@
+1
+00:00:02,200 --> 00:00:11,159
+Après l’entraînement,
+voyez ce qui tient
+
+2
+00:00:11,209 --> 00:00:15,003
+Séances, coups joués,
+taux de réussite
+
+3
+00:00:15,053 --> 00:00:18,813
+Comparez vos répertoires
+Blancs et Noirs
+
+4
+00:00:18,863 --> 00:00:25,216
+Les lignes à travailler,
+avec un raccourci vers l’entraînement
+
+5
+00:00:25,266 --> 00:00:27,919
+Inclus dans l’offre gratuite
+
