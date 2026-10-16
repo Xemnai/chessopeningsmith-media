@@ -7,11 +7,13 @@
 
 ## Post caption
 
-An analysis queue that resumes after a reload, one game at a time, on your device. Free with the Quick profile (5 a day); Standard and Deep with Master Smith.
+All your games analyzed in one go with Master Smith 🔬
+Repertoire comparison + Stockfish 19, Standard and Deep profiles unlocked, power set for your device.
+The queue runs locally (pause, resume, time left) and your new games get analyzed automatically.
 
-#chess #chessopenings #openingrepertoire #chessplayer #chessopeningsmith #chesstok
+#chess #stockfish #chessanalysis #chessopenings #chessopeningsmith #chesstok
 
-_Source : captions-bank.md (« Analyses approfondies »)_
+_Source : STORYBOARD-v2.md (06) + SRT_
 
 ## On-screen text (SRT)
 

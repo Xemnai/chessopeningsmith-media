@@ -7,11 +7,13 @@
 
 ## Légende de publication
 
-Une file d’analyse qui reprend après un rechargement, une partie à la fois, sur votre appareil. Gratuit en profil Rapide (5 par jour) ; Standard et Approfondi avec Maître Forgeron.
+Toutes vos parties analysées d’un coup avec Maître Forgeron 🔬
+Comparaison à votre répertoire + Stockfish 19, profils Standard et Approfondi débloqués, puissance réglée selon votre appareil.
+La file tourne en local (pause, reprise, temps restant) et vos nouvelles parties s’analysent automatiquement.
 
-#echecs #ouverturesechecs #repertoire #joueurdechecs #chessopeningsmith #chesstok
+#echecs #stockfish #analyseechecs #ouverturesechecs #chessopeningsmith #chesstok
 
-_Source : captions-bank.md (« Analyses approfondies »)_
+_Source : STORYBOARD-v2.md (06) + SRT_
 
 ## Texte à l’écran (SRT)
 
